@@ -4,7 +4,7 @@ import javax.swing.*;
 
 /**
  *
- * @author famil
+ * @Eduarda Duarte
  */
 public class TelaCadastro extends javax.swing.JFrame {
     
